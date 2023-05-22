@@ -1,0 +1,5 @@
+Invoked menu webscraper for Virginia Tech - Food Court/Hokie Grill at Owens Hall on Sun Jun 26 2022 17:12:15 GMT-0400 (Eastern Daylight Time)
+Time category: Lunch
+Grabbed 17 elements
+Time category: Dinner
+Grabbed 17 elements

@@ -1,0 +1,3593 @@
+Invoked menu webscraper for Virginia Tech - D2 at Dietrick Hall on Fri Jul 01 2022 03:11:29 GMT-0400 (Eastern Daylight Time)
+[
+  {
+    itemName: 'Bacon',
+    itemDescription: 'Crispy cooked bacon.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Biscuits',
+    itemDescription: 'Flakey, hot baked biscuits.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Blueberry Pancakes',
+    itemDescription: 'Fluffy, made-from-scratch blueberry pancakes.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Cereal, Oatmeal',
+    itemDescription: 'Tasty hot oatmeal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Cinnamon Apples',
+    itemDescription: 'Fresh, sliced apples sprinkled with cinnamon and sugar and cooked until soft and tender.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Hash Brown Casserole',
+    itemDescription: 'Shredded potatoes, onions and cheddar cheese mixed together and baked in the oven until hot and bubbly.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Sausage Gravy',
+    itemDescription: 'Crumbles of hot, Jimmy Dean sausage in a thickened milk based gravy.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Sausage Patties',
+    itemDescription: 'Grilled pork sausage patties.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Scrambled Eggs',
+    itemDescription: 'Fluffy, scrambled eggs.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Steamed Eggs',
+    itemDescription: 'Fresh, steamed eggs.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Hot Items'
+  },
+  {
+    itemName: 'Bagel, Asiago Cheese',
+    itemDescription: 'A savory asiago cheese bagel.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Pastries & Baked Goods'
+  },
+  {
+    itemName: 'Bagel, Blueberry',
+    itemDescription: 'A delectable blueberry bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Pastries & Baked Goods'
+  },
+  {
+    itemName: 'Bagel, Cinnamon Raisin',
+    itemDescription: 'A soft, fluffy cinnamon raisin bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breakfast Pastries & Baked Goods'
+  },
+  {
+    itemName: 'Bagel, Sesame',
+    itemDescription: 'A soft and chewy sesame bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'Bagel, Whole Wheat',
+    itemDescription: 'A tender 100% whole wheat bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'Bagels',
+    itemDescription: 'A soft and fluffy plain bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'Breakfast Quinoa w/ Raisins GF',
+    itemDescription: 'Breakfast quinoa with cinnamon, raisins, and brown sugar.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'Cereal, Cocoa Pebbles',
+    itemDescription: 'Traditional Cocoa Pebbles cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'Cereal, Fruity Pebbles',
+    itemDescription: 'Traditional Fruity Pebbles cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'Cereal, Rice Chex',
+    itemDescription: 'Traditional Rice Chex cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'GF Bacon',
+    itemDescription: 'Smoked bacon slices baked in the oven until slightly crisp.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'GF Hash Browns',
+    itemDescription: 'Shredded hash browns seasoned with salt and pepper and grilled to perfection.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'GF Scrambled Eggs',
+    itemDescription: 'Fluffy, scrambled eggs.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: "Gaucho's Gluten Free Breakfast"
+  },
+  {
+    itemName: 'GF Steamed Eggs',
+    itemDescription: 'Fresh, steamed eggs.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Gluten Free Blueberry Muffin',
+    itemDescription: 'A soft, fluffy, gluten free blueberry muffin.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Gluten Free Chocolate Chip Muffin*',
+    itemDescription: 'Fluffy gluten free chocolate chip muffin.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Pancakes, Cornmeal Gluten Free',
+    itemDescription: 'A fluffy cornmeal pancake made with rice flour & soy milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Smoked Sausage Breakfast Bowl',
+    itemDescription: 'A breakfast bowl with red potatoes, smoked sausage, & scrambled eggs topped with a white cheese sauce, chopped tomatoes, and sliced green onions.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Almonds, Sliced',
+    itemDescription: 'Sliced almonds.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Banana Chips',
+    itemDescription: 'Sweetened banana chips.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Blueberries',
+    itemDescription: 'Wild blueberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Coconut',
+    itemDescription: 'Sliced and flaked coconut.',
+    vegan: true,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Craisins',
+    itemDescription: 'Sweetened dried cranberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Crisp Topping',
+    itemDescription: 'A crispy topping made with oatmeal, cinnamon, and brown sugar.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Honey Greek Yogurt',
+    itemDescription: 'Greek yogurt flavored with vanilla and honey.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Honey',
+    itemDescription: 'Clover honey.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Low Fat Granola Cereal',
+    itemDescription: 'Low-fat granola cereal with raisins.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Plain Yogurt',
+    itemDescription: 'Swiss style fat-free yogurt.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Praline Pecans',
+    itemDescription: 'Sugared, crunchy pecans.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Raisins',
+    itemDescription: 'Seedless raisins.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Raspberries',
+    itemDescription: 'Frozen raspberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Topping, Mini Chocolate Chips',
+    itemDescription: 'Semi-sweet chocolate chips.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Walnuts',
+    itemDescription: 'Walnut pieces.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Yogurt, Strawberry',
+    itemDescription: 'Swiss style low-fat yogurt.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Make your own Waffle',
+    itemDescription: 'Fresh cooked waffles served with a sweet strawberry sauce.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Syrup, Maple Flavored',
+    itemDescription: 'Traditional maple pancake syrup.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Whipped Topping',
+    itemDescription: 'Whipped topping.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Omelettes',
+    itemDescription: '',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'BBQ Sauce Dispenser',
+    itemDescription: 'BBQ sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Honey Mustard Dispenser',
+    itemDescription: 'Honey mustard.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Ketchup Dispenser',
+    itemDescription: 'Ketchup.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Mayo Dispenser',
+    itemDescription: 'Mayo.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Ranch Dispenser',
+    itemDescription: 'Ranch.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Texas Pete Hot Sauce Dispenser',
+    itemDescription: 'Texas Pete hot sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Yellow Mustard Dispenser',
+    itemDescription: 'Yellow mustard.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Cereal, Berry Colossal Crunch',
+    itemDescription: 'Sweet Colossal Berry Crunch cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Cornflakes',
+    itemDescription: 'Cornflakes cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Crispy Rice',
+    itemDescription: 'Rice Crispy cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: "Cereal, Honey Nut Toasty O's",
+    itemDescription: "Sweet Honey Nut Toasty O's cereal.",
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: "Cereal, Marshmallow Matey's",
+    itemDescription: "Marshmallow Matey's cereal.",
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Raisin Bran',
+    itemDescription: 'Raisin Bran cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Low Fat Granola Cereal',
+    itemDescription: 'Low-fat granola cereal with raisins.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Cereals'
+  },
+  {
+    itemName: '100% Orange Juice',
+    itemDescription: 'Traditional orange juice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Hot Chocolate',
+    itemDescription: 'Creamy, flavorful hot chocolate.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Chocolate',
+    itemDescription: '1% fat chocolate milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Skim',
+    itemDescription: 'Traditional skim milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Whole',
+    itemDescription: 'Creamy whole milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Orange Juice Beverage',
+    itemDescription: '50% orange juice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Soft Drinks, Diet',
+    itemDescription: 'A variety of diet soft drinks.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Soft Drinks, non-diet',
+    itemDescription: 'A variety of regular soft drinks are available.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Unsweetened Almond Milk',
+    itemDescription: 'Unsweetened plain Silk almond milk.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Banana',
+    itemDescription: 'Fresh banana.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Golden Delicious Apple',
+    itemDescription: 'A fresh golden delicious apple.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Breakfast',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Orange',
+    itemDescription: 'A fresh whole orange.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Soups'
+  },
+  {
+    itemName: 'Chili Con Carne',
+    itemDescription: 'Chili con carne with simmered ground beef, onion, tomato, and a combination of flavorful spices.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Soups'
+  },
+  {
+    itemName: 'Tomato Basil Soup',
+    itemDescription: 'A creamy tomato basil soup spiced to perfection.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Chinese Rice',
+    itemDescription: 'Traditional Chinese rice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Spicy Orange Beef',
+    itemDescription: 'Beef strips marinated in an orange sauce with sriracha.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Thai BBQ Chicken',
+    itemDescription: 'Chicken in a BBQ sauce with Thai chili peppers.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Thai Fried Eggplant & Squash',
+    itemDescription: 'Fried Chinese eggplant with zucchini, squash and green onions mixed in a Thai sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Entrees"
+  },
+  {
+    itemName: 'Beef Shawarma',
+    itemDescription: 'Traditional Mediterranean sandwich with fresh veggies.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Entrees"
+  },
+  {
+    itemName: 'Chicken Katsu',
+    itemDescription: 'Steamed rice topped with fried chicken pieces and tonkatsu gravy finished with sliced greens and cabbage.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Grill & Burgers (Mon-Fri)"
+  },
+  {
+    itemName: 'All Beef Burger',
+    itemDescription: '100% Beef burger seasoned and served on a fluffy sweet roll.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Sides"
+  },
+  {
+    itemName: 'Seasoned Curly Fries',
+    itemDescription: 'Deep fried potato curly fries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Arroz Verde',
+    itemDescription: 'Long grain rice cooked with onion, garlic, cilantro, chili peppers and lime.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Cereal, Cocoa Pebbles',
+    itemDescription: 'Traditional Cocoa Pebbles cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Cereal, Fruity Pebbles',
+    itemDescription: 'Traditional Fruity Pebbles cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Cereal, Rice Chex',
+    itemDescription: 'Traditional Rice Chex cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Blueberry Muffin',
+    itemDescription: 'A soft, fluffy, gluten free blueberry muffin.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Breaded Tilapia',
+    itemDescription: 'Fresh tilapia with lemon and cornmeal breading.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Chocolate Chip Cookie',
+    itemDescription: 'A gluten free chocolate chip cookie.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Chocolate Chip Muffin*',
+    itemDescription: 'Fluffy gluten free chocolate chip muffin.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Made-To-Order Pizza, Gluten Free',
+    itemDescription: 'A gluten free pizza crust topped with tomato sauce, mozzarella, and provolone cheese with choice of toppings.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia! Specials'
+  },
+  {
+    itemName: 'Pizza, Gluten Free Cheese',
+    itemDescription: 'A gluten free pizza crust topped with tomato sauce and mozzarella and provolone cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Prince Edward Veggies',
+    itemDescription: 'A blend of green beans, wax beans, and baby carrots.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Ranch Style Rotisserie Chicken',
+    itemDescription: 'Chicken seasoned with ranch, oil, white vinegar, salt and pepper.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Zucchini',
+    itemDescription: 'Fresh zucchini squash sticks.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Herb Potatoes',
+    itemDescription: '',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Tortellini inTomato Cream Sauce',
+    itemDescription: 'Tortellini pasta mixed with mushrooms, peas and ham in a creamy alfredo spaghetti sauce and topped with grated parmesan cheese.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Alfredo Sauce',
+    itemDescription: 'Creamy alfredo sauce.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Cheese Breadsticks',
+    itemDescription: 'Tenderly baked breadsticks topped with mozzarella and provolone cheese and seasoned to perfection.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's Specials"
+  },
+  {
+    itemName: 'Cheese Pizza*',
+    itemDescription: 'A traditional cheese pizza with mozzarella and provolone cheeses.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Italian Meat Sauce',
+    itemDescription: 'Tender, crumbled ground beef mixed with tomato sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Marinara Sauce',
+    itemDescription: 'Traditional marinara spaghetti sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Pepperoni Pizza',
+    itemDescription: 'A traditional pepperoni pizza with mozzarella and provolone cheeses.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Cauliflower Chicken and Waffles',
+    itemDescription: 'Vegan waffle topped with fried cauliflower "drumstick", sriracha maple syrup and jalapenos.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Brown Rice & Quinoa',
+    itemDescription: 'Brown rice and quinoa mixed together.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Cheese, Feta',
+    itemDescription: 'Crumbled feta cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Chocolate Mousse',
+    itemDescription: 'Thick chocolate mousse made with soy milk.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Fresh Diced Tomatoes',
+    itemDescription: 'Fresh, diced tomatoes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Fresh Spinach',
+    itemDescription: 'Fresh, green, leafy spinach.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Meatless Nuggets',
+    itemDescription: 'Meatless nuggets that are oven baked until golden brown.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Olive Salad',
+    itemDescription: 'Black and green olives mixed with artichoke hearts, garbanzo beans, red peppers, and green onions in a balsamic vinaigrette drizzle.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Pita Bread, Whole Wheat',
+    itemDescription: 'Whole wheat pita bread.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Red Kidney Beans',
+    itemDescription: 'Dark red kidney beans.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Rice, Brown',
+    itemDescription: 'Steamed brown rice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Roasted Red Peppers',
+    itemDescription: 'Roasted red bell peppers.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Romaine Lettuce',
+    itemDescription: 'Chopped romaine lettuce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Shredded Vegan Cheese',
+    itemDescription: 'Tasty, shredded mozzarella cheese made without any dairy or animal products.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Sweet Potato Fries',
+    itemDescription: 'Sweet potato fries oven baked until crispy.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Sweet Potato',
+    itemDescription: 'Freshly baked sweet potato.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Tabouleh',
+    itemDescription: 'Tender couscous mixed with fresh vegetables in a spiced oil sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Tofu',
+    itemDescription: 'Tender tofu.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Traditional Hummus',
+    itemDescription: 'A classic garbonzo bean hummus.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Whole Wheat Tortilla for Wraps and Burritos',
+    itemDescription: 'Whole wheat tortilla.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Cheese, Shredded Cheddar*',
+    itemDescription: 'Shredded cheddar cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Cochinita Pibil Taco Basket',
+    itemDescription: 'Mayan pulled pork served on a flour tortilla, and topped with pickled red onions and fresh lime. Served with fresh fried tortilla chips on the side.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Flour Tortilla',
+    itemDescription: 'Traditional flour tortilla.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Fresh Diced Tomatoes',
+    itemDescription: 'Fresh, diced tomatoes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Grilled Fresh Veggies',
+    itemDescription: 'Seasoned and grilled red and green peppers with red onion.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Guacamole',
+    itemDescription: 'Traditional guacamole.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Large Flour Tortilla',
+    itemDescription: 'Traditional flour tortilla.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Mexican chimichurri',
+    itemDescription: 'A light Mexican sauce with cilantro, onion, lime, chilis, and garlic.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Picante Sauce',
+    itemDescription: 'Traditional spicy picante (salsa) sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Pico de Gallo',
+    itemDescription: 'Fresh pico de gallo made with tomatoes, peppers, onions, and a blend of spices.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Salsa Black Bean & Corn',
+    itemDescription: 'Homemade black bean and corn salsa that is spiced to perfection.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Shredded Iceberg Lettuce',
+    itemDescription: 'Fresh, shredded Iceburg lettuce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Sour Cream',
+    itemDescription: 'Fresh, all natural sour cream.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Taco Meat',
+    itemDescription: 'Ground beef sautéed with onions and garlic and an abundance of flavor.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Taco Salad Tortilla',
+    itemDescription: 'Deep fried, crispy tortilla bowl for a taco salad.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Taco Shell',
+    itemDescription: 'Crispy taco shell.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Bacon Bits',
+    itemDescription: 'Tender, crumbled bacon.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Broccoli Buds',
+    itemDescription: 'Fresh, broccoli flowerettes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Croutons',
+    itemDescription: 'Roasted, flavorful croutons.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Diced Cucumber',
+    itemDescription: 'Fresh cucumber.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Grape Tomatoes',
+    itemDescription: 'Fresh, whole grape tomatoes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Lettuce Mix',
+    itemDescription: 'A mix of fresh green and red leaf lettuce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Monterey Jack & Cheddar Cheese',
+    itemDescription: 'A mix of shredded monterey jack and cheddar cheeses.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Oil (for Oil & Vinegar)',
+    itemDescription: 'Soybean oil.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Poppyseed Dressing',
+    itemDescription: 'Traditional poppy seed dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Red Onions',
+    itemDescription: 'Sliced red onions.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing, French',
+    itemDescription: 'Creamy honey French dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing, Homestyle Ranch',
+    itemDescription: 'A rich and creamy classic ranch dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing, Italian',
+    itemDescription: 'Flavorful, golden Italian dressing.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing,1000 Island',
+    itemDescription: 'Creamy 1000 island dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Shredded Carrots',
+    itemDescription: 'Fresh, shredded carrots.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Almonds, Sliced',
+    itemDescription: 'Sliced almonds.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Asiago Cheese',
+    itemDescription: 'A savory asiago cheese bagel.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Blueberry',
+    itemDescription: 'A delectable blueberry bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Cinnamon Raisin',
+    itemDescription: 'A soft, fluffy cinnamon raisin bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Whole Wheat',
+    itemDescription: 'A tender 100% whole wheat bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagels',
+    itemDescription: 'A soft and fluffy plain bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Banana Chips',
+    itemDescription: 'Sweetened banana chips.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Blueberries',
+    itemDescription: 'Wild blueberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Butter',
+    itemDescription: 'Unsalted butter.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Coconut',
+    itemDescription: 'Sliced and flaked coconut.',
+    vegan: true,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Craisins',
+    itemDescription: 'Sweetened dried cranberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Cream Cheese',
+    itemDescription: 'Traditional cream cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Honey',
+    itemDescription: 'Clover honey.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Low Fat Granola Cereal',
+    itemDescription: 'Low-fat granola cereal with raisins.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Peanut Butter',
+    itemDescription: 'Creamy peanut butter.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Praline Pecans',
+    itemDescription: 'Sugared, crunchy pecans.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Raisins',
+    itemDescription: 'Seedless raisins.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Topping, Mini Chocolate Chips',
+    itemDescription: 'Semi-sweet chocolate chips.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Vanilla Greek Yogurt',
+    itemDescription: 'Traditional and tasty vanilla Greek yogurt.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Walnuts',
+    itemDescription: 'Walnut pieces.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Yogurt, Strawberry',
+    itemDescription: 'Swiss style low-fat yogurt.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Brownie w/o Nuts or Icing',
+    itemDescription: 'Soft, dense chocolate brownies (without nuts or icing).',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Dirt Cup, Chocolate',
+    itemDescription: 'Throw it back with this childhood favorite of chocolate pudding, cookie crumbles, and gummy worms.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Funfetti Cake',
+    itemDescription: 'Tender yellow cake flecked with colorful sprinkles, topped with vanilla icing and more sprinkles.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Make your own Waffle',
+    itemDescription: 'Fresh cooked waffles served with a sweet strawberry sauce.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Peach Cobbler',
+    itemDescription: 'A freshly baked peach cobbler with a crisp topping.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Salted Caramel Pot de Creme',
+    itemDescription: 'Baked, fluffy dessert made from salted caramel custard.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: "Small David's M&M Cookie",
+    itemDescription: '',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Small Davids Oatmeal Raisin Cookie',
+    itemDescription: '',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Strawberry Tart',
+    itemDescription: 'A pastry shell filled with custard topped with fresh strawberries, sliced almonds and a clear glaze.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Sugar Free Gelatin',
+    itemDescription: 'Sugar-free traditional gelatin.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Soft Serve and Toppings (Varies Daily)'
+  },
+  {
+    itemName: 'Syrup, Maple Flavored',
+    itemDescription: 'Traditional maple pancake syrup.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Soft Serve and Toppings (Varies Daily)'
+  },
+  {
+    itemName: 'Ice Milk Soft Serve Chocolate',
+    itemDescription: 'Soft and creamy chocolate soft serve ice cream.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'East Side Deli & Grill'
+  },
+  {
+    itemName: 'Ice Milk Soft Serve Vanilla',
+    itemDescription: 'Soft and creamy soft serve vanilla ice cream.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Omelettes',
+    itemDescription: '',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'BBQ Sauce Dispenser',
+    itemDescription: 'BBQ sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Honey Mustard Dispenser',
+    itemDescription: 'Honey mustard.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Ketchup Dispenser',
+    itemDescription: 'Ketchup.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Mayo Dispenser',
+    itemDescription: 'Mayo.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Ranch Dispenser',
+    itemDescription: 'Ranch.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Texas Pete Hot Sauce Dispenser',
+    itemDescription: 'Texas Pete hot sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Yellow Mustard Dispenser',
+    itemDescription: 'Yellow mustard.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Berry Colossal Crunch',
+    itemDescription: 'Sweet Colossal Berry Crunch cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Cornflakes',
+    itemDescription: 'Cornflakes cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Crispy Rice',
+    itemDescription: 'Rice Crispy cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: "Cereal, Honey Nut Toasty O's",
+    itemDescription: "Sweet Honey Nut Toasty O's cereal.",
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: "Cereal, Marshmallow Matey's",
+    itemDescription: "Marshmallow Matey's cereal.",
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Raisin Bran',
+    itemDescription: 'Raisin Bran cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Low Fat Granola Cereal',
+    itemDescription: 'Low-fat granola cereal with raisins.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: '100% Orange Juice',
+    itemDescription: 'Traditional orange juice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Hot Chocolate',
+    itemDescription: 'Creamy, flavorful hot chocolate.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Chocolate',
+    itemDescription: '1% fat chocolate milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Skim',
+    itemDescription: 'Traditional skim milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Whole',
+    itemDescription: 'Creamy whole milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Soft Drinks, Diet',
+    itemDescription: 'A variety of diet soft drinks.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Soft Drinks, non-diet',
+    itemDescription: 'A variety of regular soft drinks are available.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Unsweetened Almond Milk',
+    itemDescription: 'Unsweetened plain Silk almond milk.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Banana',
+    itemDescription: 'Fresh banana.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Lunch',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Golden Delicious Apple',
+    itemDescription: 'A fresh golden delicious apple.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Soups'
+  },
+  {
+    itemName: 'Fresh Orange',
+    itemDescription: 'A fresh whole orange.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Soups'
+  },
+  {
+    itemName: 'Chili Con Carne',
+    itemDescription: 'Chili con carne with simmered ground beef, onion, tomato, and a combination of flavorful spices.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Tomato Basil Soup',
+    itemDescription: 'A creamy tomato basil soup spiced to perfection.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Chinese Rice',
+    itemDescription: 'Traditional Chinese rice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Spicy Orange Beef',
+    itemDescription: 'Beef strips marinated in an orange sauce with sriracha.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Pan Asia (Mon-Fri)'
+  },
+  {
+    itemName: 'Thai BBQ Chicken',
+    itemDescription: 'Chicken in a BBQ sauce with Thai chili peppers.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Entrees"
+  },
+  {
+    itemName: 'Thai Fried Eggplant & Squash',
+    itemDescription: 'Fried Chinese eggplant with zucchini, squash and green onions mixed in a Thai sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Entrees"
+  },
+  {
+    itemName: 'Baked Carved Ham',
+    itemDescription: 'Sweet and salty pecanwood smoked ham baked to perfection.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Grill & Burgers (Mon-Fri)"
+  },
+  {
+    itemName: 'Chicken Katsu',
+    itemDescription: 'Steamed rice topped with fried chicken pieces and tonkatsu gravy finished with sliced greens and cabbage.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Sides"
+  },
+  {
+    itemName: 'All Beef Burger',
+    itemDescription: '100% Beef burger seasoned and served on a fluffy sweet roll.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Peach Chutney',
+    itemDescription: 'A peach chutney with raisins seasoned with lemon, ginger, allspice, and brown sugar.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Seasoned Curly Fries',
+    itemDescription: 'Deep fried potato curly fries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Cereal, Cocoa Pebbles',
+    itemDescription: 'Traditional Cocoa Pebbles cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Cereal, Fruity Pebbles',
+    itemDescription: 'Traditional Fruity Pebbles cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Cereal, Rice Chex',
+    itemDescription: 'Traditional Rice Chex cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Blueberry Muffin',
+    itemDescription: 'A soft, fluffy, gluten free blueberry muffin.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Chocolate Chip Cookie',
+    itemDescription: 'A gluten free chocolate chip cookie.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Gluten Free Chocolate Chip Muffin*',
+    itemDescription: 'Fluffy gluten free chocolate chip muffin.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Lemon Pepper Tilapia',
+    itemDescription: 'Baked catfish filets splashed with lemon juice and wine and seasoned with cajun spices.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Made-To-Order Pizza, Gluten Free',
+    itemDescription: 'A gluten free pizza crust topped with tomato sauce, mozzarella, and provolone cheese with choice of toppings.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Pizza, Gluten Free Cheese',
+    itemDescription: 'A gluten free pizza crust topped with tomato sauce and mozzarella and provolone cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Ranch Style Rotisserie Chicken',
+    itemDescription: 'Chicken seasoned with ranch, oil, white vinegar, salt and pepper.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Gaucho's Gluten Free"
+  },
+  {
+    itemName: 'Rosemary Roasted Red Potatoes',
+    itemDescription: 'Baked redskin potatoes seasoned with fresh garlic and rosemary.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia! Specials'
+  },
+  {
+    itemName: 'Whole Kernel Corn',
+    itemDescription: 'Steamed yellow corn.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia! Specials'
+  },
+  {
+    itemName: 'Zucchini',
+    itemDescription: 'Fresh zucchini squash sticks.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Herb Potatoes',
+    itemDescription: '',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Tortellini inTomato Cream Sauce',
+    itemDescription: 'Tortellini pasta mixed with mushrooms, peas and ham in a creamy alfredo spaghetti sauce and topped with grated parmesan cheese.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Alfredo Sauce',
+    itemDescription: 'Creamy alfredo sauce.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Cheese Breadsticks',
+    itemDescription: 'Tenderly baked breadsticks topped with mozzarella and provolone cheese and seasoned to perfection.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Cheese Pizza*',
+    itemDescription: 'A traditional cheese pizza with mozzarella and provolone cheeses.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Mangia!'
+  },
+  {
+    itemName: 'Italian Meat Sauce',
+    itemDescription: 'Tender, crumbled ground beef mixed with tomato sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's Specials"
+  },
+  {
+    itemName: 'Marinara Sauce',
+    itemDescription: 'Traditional marinara spaghetti sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Pepperoni Pizza',
+    itemDescription: 'A traditional pepperoni pizza with mozzarella and provolone cheeses.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Cauliflower Chicken and Waffles',
+    itemDescription: 'Vegan waffle topped with fried cauliflower "drumstick", sriracha maple syrup and jalapenos.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Brown Rice & Quinoa',
+    itemDescription: 'Brown rice and quinoa mixed together.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Cheese, Feta',
+    itemDescription: 'Crumbled feta cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Chocolate Mousse',
+    itemDescription: 'Thick chocolate mousse made with soy milk.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Fresh Diced Tomatoes',
+    itemDescription: 'Fresh, diced tomatoes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Fresh Spinach',
+    itemDescription: 'Fresh, green, leafy spinach.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Meatless Nuggets',
+    itemDescription: 'Meatless nuggets that are oven baked until golden brown.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Olive Salad',
+    itemDescription: 'Black and green olives mixed with artichoke hearts, garbanzo beans, red peppers, and green onions in a balsamic vinaigrette drizzle.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Pita Bread, Whole Wheat',
+    itemDescription: 'Whole wheat pita bread.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Red Kidney Beans',
+    itemDescription: 'Dark red kidney beans.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Rice, Brown',
+    itemDescription: 'Steamed brown rice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Roasted Red Peppers',
+    itemDescription: 'Roasted red bell peppers.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Romaine Lettuce',
+    itemDescription: 'Chopped romaine lettuce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Shredded Vegan Cheese',
+    itemDescription: 'Tasty, shredded mozzarella cheese made without any dairy or animal products.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Sweet Potato Fries',
+    itemDescription: 'Sweet potato fries oven baked until crispy.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Sweet Potato',
+    itemDescription: 'Freshly baked sweet potato.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Tabouleh',
+    itemDescription: 'Tender couscous mixed with fresh vegetables in a spiced oil sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Tofu',
+    itemDescription: 'Tender tofu.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Olive's"
+  },
+  {
+    itemName: 'Traditional Hummus',
+    itemDescription: 'A classic garbonzo bean hummus.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Whole Wheat Tortilla for Wraps and Burritos',
+    itemDescription: 'Whole wheat tortilla.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Cheese, Shredded Cheddar*',
+    itemDescription: 'Shredded cheddar cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Cochinita Pibil Taco Basket',
+    itemDescription: 'Mayan pulled pork served on a flour tortilla, and topped with pickled red onions and fresh lime. Served with fresh fried tortilla chips on the side.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Flour Tortilla',
+    itemDescription: 'Traditional flour tortilla.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Fresh Diced Tomatoes',
+    itemDescription: 'Fresh, diced tomatoes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Grilled Fresh Veggies',
+    itemDescription: 'Seasoned and grilled red and green peppers with red onion.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Guacamole',
+    itemDescription: 'Traditional guacamole.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Large Flour Tortilla',
+    itemDescription: 'Traditional flour tortilla.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Mexican chimichurri',
+    itemDescription: 'A light Mexican sauce with cilantro, onion, lime, chilis, and garlic.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Picante Sauce',
+    itemDescription: 'Traditional spicy picante (salsa) sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Pico de Gallo',
+    itemDescription: 'Fresh pico de gallo made with tomatoes, peppers, onions, and a blend of spices.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Salsa Black Bean & Corn',
+    itemDescription: 'Homemade black bean and corn salsa that is spiced to perfection.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Shredded Iceberg Lettuce',
+    itemDescription: 'Fresh, shredded Iceburg lettuce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Sour Cream',
+    itemDescription: 'Fresh, all natural sour cream.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Taco Meat',
+    itemDescription: 'Ground beef sautéed with onions and garlic and an abundance of flavor.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Salsa's (Mon-Fri)"
+  },
+  {
+    itemName: 'Taco Salad Tortilla',
+    itemDescription: 'Deep fried, crispy tortilla bowl for a taco salad.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Taco Shell',
+    itemDescription: 'Crispy taco shell.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Bacon Bits',
+    itemDescription: 'Tender, crumbled bacon.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Broccoli Buds',
+    itemDescription: 'Fresh, broccoli flowerettes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Croutons',
+    itemDescription: 'Roasted, flavorful croutons.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Diced Cucumber',
+    itemDescription: 'Fresh cucumber.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Grape Tomatoes',
+    itemDescription: 'Fresh, whole grape tomatoes.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Lettuce Mix',
+    itemDescription: 'A mix of fresh green and red leaf lettuce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Monterey Jack & Cheddar Cheese',
+    itemDescription: 'A mix of shredded monterey jack and cheddar cheeses.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Oil (for Oil & Vinegar)',
+    itemDescription: 'Soybean oil.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Poppyseed Dressing',
+    itemDescription: 'Traditional poppy seed dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Red Onions',
+    itemDescription: 'Sliced red onions.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing, French',
+    itemDescription: 'Creamy honey French dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing, Homestyle Ranch',
+    itemDescription: 'A rich and creamy classic ranch dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing, Italian',
+    itemDescription: 'Flavorful, golden Italian dressing.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: "Eden's"
+  },
+  {
+    itemName: 'Salad Dressing,1000 Island',
+    itemDescription: 'Creamy 1000 island dressing.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Shredded Carrots',
+    itemDescription: 'Fresh, shredded carrots.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Almonds, Sliced',
+    itemDescription: 'Sliced almonds.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Asiago Cheese',
+    itemDescription: 'A savory asiago cheese bagel.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Blueberry',
+    itemDescription: 'A delectable blueberry bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Cinnamon Raisin',
+    itemDescription: 'A soft, fluffy cinnamon raisin bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagel, Whole Wheat',
+    itemDescription: 'A tender 100% whole wheat bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Bagels',
+    itemDescription: 'A soft and fluffy plain bagel.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Banana Chips',
+    itemDescription: 'Sweetened banana chips.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Blueberries',
+    itemDescription: 'Wild blueberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Butter',
+    itemDescription: 'Unsalted butter.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Coconut',
+    itemDescription: 'Sliced and flaked coconut.',
+    vegan: true,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Craisins',
+    itemDescription: 'Sweetened dried cranberries.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Cream Cheese',
+    itemDescription: 'Traditional cream cheese.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Honey',
+    itemDescription: 'Clover honey.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Low Fat Granola Cereal',
+    itemDescription: 'Low-fat granola cereal with raisins.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Peanut Butter',
+    itemDescription: 'Creamy peanut butter.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Praline Pecans',
+    itemDescription: 'Sugared, crunchy pecans.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Raisins',
+    itemDescription: 'Seedless raisins.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Topping, Mini Chocolate Chips',
+    itemDescription: 'Semi-sweet chocolate chips.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Vanilla Greek Yogurt',
+    itemDescription: 'Traditional and tasty vanilla Greek yogurt.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Yogurt Bar'
+  },
+  {
+    itemName: 'Walnuts',
+    itemDescription: 'Walnut pieces.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Yogurt, Strawberry',
+    itemDescription: 'Swiss style low-fat yogurt.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Brownie w/o Nuts or Icing',
+    itemDescription: 'Soft, dense chocolate brownies (without nuts or icing).',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Dirt Cup, Chocolate',
+    itemDescription: 'Throw it back with this childhood favorite of chocolate pudding, cookie crumbles, and gummy worms.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Funfetti Cake',
+    itemDescription: 'Tender yellow cake flecked with colorful sprinkles, topped with vanilla icing and more sprinkles.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Make your own Waffle',
+    itemDescription: 'Fresh cooked waffles served with a sweet strawberry sauce.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Peach Cobbler',
+    itemDescription: 'A freshly baked peach cobbler with a crisp topping.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Salted Caramel Pot de Creme',
+    itemDescription: 'Baked, fluffy dessert made from salted caramel custard.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: "Small David's M&M Cookie",
+    itemDescription: '',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Small Davids Oatmeal Raisin Cookie',
+    itemDescription: '',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Strawberry Tart',
+    itemDescription: 'A pastry shell filled with custard topped with fresh strawberries, sliced almonds and a clear glaze.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Sugar Free Gelatin',
+    itemDescription: 'Sugar-free traditional gelatin.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Syrup, Maple Flavored',
+    itemDescription: 'Traditional maple pancake syrup.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'La Patisserie'
+  },
+  {
+    itemName: 'Ice Milk Soft Serve Chocolate',
+    itemDescription: 'Soft and creamy chocolate soft serve ice cream.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Soft Serve and Toppings (Varies Daily)'
+  },
+  {
+    itemName: 'Ice Milk Soft Serve Vanilla',
+    itemDescription: 'Soft and creamy soft serve vanilla ice cream.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Soft Serve and Toppings (Varies Daily)'
+  },
+  {
+    itemName: 'Omelettes',
+    itemDescription: '',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'East Side Deli & Grill'
+  },
+  {
+    itemName: 'BBQ Sauce Dispenser',
+    itemDescription: 'BBQ sauce.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Honey Mustard Dispenser',
+    itemDescription: 'Honey mustard.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Ketchup Dispenser',
+    itemDescription: 'Ketchup.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Mayo Dispenser',
+    itemDescription: 'Mayo.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Ranch Dispenser',
+    itemDescription: 'Ranch.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Texas Pete Hot Sauce Dispenser',
+    itemDescription: 'Texas Pete hot sauce.',
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Yellow Mustard Dispenser',
+    itemDescription: 'Yellow mustard.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Breads & Condiments'
+  },
+  {
+    itemName: 'Cereal, Berry Colossal Crunch',
+    itemDescription: 'Sweet Colossal Berry Crunch cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Cornflakes',
+    itemDescription: 'Cornflakes cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Crispy Rice',
+    itemDescription: 'Rice Crispy cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: "Cereal, Honey Nut Toasty O's",
+    itemDescription: "Sweet Honey Nut Toasty O's cereal.",
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: "Cereal, Marshmallow Matey's",
+    itemDescription: "Marshmallow Matey's cereal.",
+    vegan: false,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Cereal, Raisin Bran',
+    itemDescription: 'Raisin Bran cereal.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: 'Low Fat Granola Cereal',
+    itemDescription: 'Low-fat granola cereal with raisins.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Cereals'
+  },
+  {
+    itemName: '100% Orange Juice',
+    itemDescription: 'Traditional orange juice.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Hot Chocolate',
+    itemDescription: 'Creamy, flavorful hot chocolate.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Chocolate',
+    itemDescription: '1% fat chocolate milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Skim',
+    itemDescription: 'Traditional skim milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Milk, Whole',
+    itemDescription: 'Creamy whole milk.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Soft Drinks, Diet',
+    itemDescription: 'A variety of diet soft drinks.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Soft Drinks, non-diet',
+    itemDescription: 'A variety of regular soft drinks are available.',
+    vegan: false,
+    vegetarian: true,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Unsweetened Almond Milk',
+    itemDescription: 'Unsweetened plain Silk almond milk.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Beverages'
+  },
+  {
+    itemName: 'Fresh Banana',
+    itemDescription: 'Fresh banana.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Golden Delicious Apple',
+    itemDescription: 'A fresh golden delicious apple.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Fruits'
+  },
+  {
+    itemName: 'Fresh Orange',
+    itemDescription: 'A fresh whole orange.',
+    vegan: true,
+    vegetarian: false,
+    schoolId: 'test',
+    dhId: 'test',
+    timeCategory: 'Dinner',
+    category: 'Fruits'
+  }
+]
